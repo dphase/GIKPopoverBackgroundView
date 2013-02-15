@@ -4,5 +4,5 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.homepage = 'https://github.com/dphase/GIKPopoverBackgroundView'
   s.source = { :git => 'https://github.com/dphase/GIKPopoverBackgroundView.git' }
-  s.source_files = 'GIKPopoverBackgroundView/*'
+  s.source_files = 'GIKPopoverBackgroundView/GIKPopoverBackgroundView.*'
 end
