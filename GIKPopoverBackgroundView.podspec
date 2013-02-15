@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.author       = { "dphase" => "joshua.deere@gmail.com" }
   s.source       = { :git => "https://github.com/dphase/GIKPopoverBackgroundView.git", :tag => '0.5.0' }
   s.platform     = :ios
-  s.source_files = 'GIKPopoverBackgroundView/*'
+  s.source_files = ['GIKPopoverBackgroundView/GIKPopoverBackgroundView.h','GIKPopoverBackgroundView/GIKPopoverBackgroundView.m']
 end
