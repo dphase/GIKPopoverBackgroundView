@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "GIKPopoverBackgroundView"
   s.version      = "0.5.0"
-  s.summary      = "GIKPopoverBackgroundView Podspec support"
+  s.summary      = "GIKPopoverBackgroundView Podspec support."
   s.homepage     = "https://github.com/dphase/GIKPopoverBackgroundView"
 
   s.license      = 'MIT'
